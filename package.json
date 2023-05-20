@@ -1,0 +1,11 @@
+{
+  "name": "react_skills",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lheesung/react_skills.git",
+  "author": "HeeSungLee <102288399+lheesung@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
